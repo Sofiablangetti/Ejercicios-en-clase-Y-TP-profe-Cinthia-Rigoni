@@ -13,4 +13,4 @@ while not adivinado:
     if intento == secreto:
         adivinado = True
 
-print("¡Correcto! Lo lograste en", intentos, "intentos")
+print("¡Adivinaste! Lo lograste en", intentos, "intentos")
